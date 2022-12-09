@@ -1,0 +1,11 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+#heading{
+    font-family: 'Caveat Brush', cursive;
+    color: black;
+}
+a{
+    color: aqua;
+}
